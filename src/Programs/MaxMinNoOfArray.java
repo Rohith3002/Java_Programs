@@ -32,6 +32,8 @@ public class MaxMinNoOfArray {
                 }
                 System.out.println(min);
                 break;
+            default:
+                System.out.println("Please enter either Min or Max");
         }
 
     }
