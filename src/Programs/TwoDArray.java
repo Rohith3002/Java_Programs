@@ -2,8 +2,6 @@ package Programs;
 
 public class TwoDArray {
     public static void main(String[] args) {
-        // 1D
-        int a[] = {1, 2, 3}; // Hori ->
         // 2D
         int[][] arr = new int[3][3];
         int arr2[][] = new int[3][3];
